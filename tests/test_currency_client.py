@@ -1,6 +1,5 @@
 import time
-from unittest import mock
-from unittest.mock import Mock, patch
+from unittest.mock import patch
 
 import pytest
 import requests
